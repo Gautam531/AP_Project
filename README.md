@@ -8,10 +8,10 @@
 ##Start a new Game/ Resume a saved game
 
 ##Select a tank from  three available tanks
-           ###Move the tank
+###Move the tank
 
 ##Select Trajectory
-           ###Select power and angle of trajectory 
+###Select power and angle of trajectory 
 
 ##Hits other tank 
            ###Damage depends on accuracy of shot
