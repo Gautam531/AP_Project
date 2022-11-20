@@ -3,15 +3,15 @@
 #   ** Flow  of  Game **
 
 
-##1 vs 1 Mode
+##*1 vs 1 Mode*
 
-##Start a new Game/ Resume a saved game
+##*Start a new Game/ Resume a saved game*
 
-##Select a tank from  three available tanks
-###Move the tank
+##*Select a tank from  three available tanks*
+           ###Move the tank
 
 ##Select Trajectory
-###Select power and angle of trajectory 
+           ###Select power and angle of trajectory 
 
 ##Hits other tank 
            ###Damage depends on accuracy of shot
